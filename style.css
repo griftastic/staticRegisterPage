@@ -11,7 +11,7 @@ body {
 
 header h1 {
     text-align: left;
-    top: -5vh;
+    top: -4vh;
     position: relative;
     font-size: xx-large;
     margin-left: .5rem;
@@ -41,7 +41,7 @@ header a {
     line-height: 1.5rem;
     text-decoration: none;
     position: relative;
-    top: -14vh;
+    top: -12vh;
 }
 
 header a:hover, form button:hover {
